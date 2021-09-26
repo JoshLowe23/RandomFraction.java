@@ -1,0 +1,20 @@
+// Take two random number divide them and out put the result
+// Josh Lowe
+// It went pretty well
+public static String calculateFraction(num, den)
+ public class Random
+    {
+     public static void main(String[] args)
+     {
+         java.util.Random
+        
+            Random num = new Random();
+           Random den = new Random();
+           if (den == 0)
+            return result = "Infinity";
+       
+       
+       double result = (num/den);
+       System.out.println(num"/"den + "=" + result)
+       }
+       }
